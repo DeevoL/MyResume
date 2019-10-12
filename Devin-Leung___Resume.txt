@@ -1,0 +1,42 @@
+Devin Leung
+LeungHDevin@gmail.com
+ (626)623-2597  
+Arcadia, California
+ 
+SUMMARY 
+I am a highly self-motivated and eager learner looking for opportunities work with automation, cloud computing, and or CI/CD pipelines. I spend most of my time optimizing workflows and processes, and researching technologies to increase overall efficiency of the organization. I am a willing and highly capable learner with a love for problem-solving and a passion for empowering people and businesses through the use of technology.
+
+SKILLS
+
+
+
+
+
+
+WORK EXPERIENCE 
+
+Application Support Specialist							         October 2018 - Present
+Huntington Health Physicians - Pasadena, CA
+* Developed several scripts in Python, significantly shortening repetitive workflows
+* Assisted in planning and execution of corporate relocation involving 60+ users/workstations
+* Developed Flask web app, enabling users to query SQL Server and generate reports
+* Collaborated inter-departmentally to solve ad hoc problems through code
+* Managed user accounts and permissions through Active Directory
+* Provided technical support for a variety of end users
+* Reimaging and deployment of workstations with Windows 10
+
+CERTIFICATIONS
+
+* AWS Certified Solutions Architect - Associate
+* AWS Certified Developer -Associate 
+* Cisco Certified Entry Networking Technician(CCENT)
+* CompTIA A+
+
+PERSONAL PROJECTS
+
+EDUCATION 
+	
+University of California Riverside					                     	                     December, 2017
+BS, Biology					   			                                                    Riverside, CA
+
+
